@@ -7,7 +7,6 @@ import java.util.*;
  * Elle utlise un file  de priorité pour determiner les 5 mots les plus proches
  * Elle utlise aussi un table de hachage pour lié cahque  liste de mots proches à son objet Mot
  *    Cette classe implemente l'interface Comparator pour nous permettre de trier les Objet Mot dans file
- *  Ecrit par l'equipe de DIASSO ABDRAMANE : Matricule 200575113 ET VINCENT Le Bourdais Goss: Matricule 20069052
  */
 
 public class MotProches implements Comparator<Mot> {

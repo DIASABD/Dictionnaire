@@ -13,7 +13,6 @@ import  java.util.LinkedList;
  * Classe Dictionnaire. Cette classe une liste  chainée de Mot   reprantant notre dictionnaire de vérification.
  * Cet dictionnaire est construit en prenant un paramètre de type fichier
  * Cette classe implemente l'interface Comparator pour nous permettre de trier les Objet Mot dans notre liste
- *  Ecrit par l'equipe de DIASSO ABDRAMANE : Matricule 200575113 ET VINCENT Le Bourdais Goss: Matricule 20069052
  */
 
 public class Dictionnaire implements Comparator< Mot> ,ActionListener{

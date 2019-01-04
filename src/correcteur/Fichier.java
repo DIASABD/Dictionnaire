@@ -8,7 +8,6 @@ import java.util.ArrayList;
 /**
  * Classe qui crée un objet fichier
  * Precisement elle lit un fichier et le stock dans une liste
- * Ecrit par l'equipe de DIASSO ABDRAMANE : Matricule 200575113 ET VINCENT Le Bourdais Goss: Matricule 20069052
  * */
 
 public class Fichier {

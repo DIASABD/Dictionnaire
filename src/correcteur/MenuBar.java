@@ -17,7 +17,6 @@ import java.util.List;
  * Elle construit le JPanel principal de notre interface avec les JMenu
  * Elle defini aussi la plupart des evenement de notre classe
  * Pour cela elle etent la classe JPanel et implemente l'interface ACtionListner de java
- * Ecrit par l'equipe de DIASSO ABDRAMANE : Matricule 200575113 ET VINCENT Le Bourdais Goss: Matricule 20069052
  */
 
 

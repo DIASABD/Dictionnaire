@@ -5,7 +5,6 @@ import javax.swing.*;
 /**
  * Classe qui construit notre interface principal
  * Elle construit un objet JFrame contenant un objet MenuBar
- * Ecrit par l'equipe de DIASSO ABDRAMANE : Matricule 200575113 ET VINCENT Le Bourdais Goss: Matricule 20069052
  */
 
 
